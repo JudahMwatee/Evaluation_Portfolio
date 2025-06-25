@@ -85,6 +85,29 @@ To demostrate this i have include Link to the code, dataset and Visualization in
 
 [Visualization](https://github.com/JudahMwatee/Evaluation_Portfolio/blob/main/University%20Rankings.pdf)
 
+# The difference between data wrangling and cleaning? justify with an example using Zoho CRM
+
+Data Cleaning involves removing dublicates, Eliminating Errors and inconsistencies to improve the quality of your data.
+On Zoho CRM tools like "Find and Merge Duplicates", "Find and Replace", are used for cleaning tasks. 
+
+Data wrangling is about improving structure and usability by merging and tranforming dataset.
+On Zoho CRM uses DataPrep software to minimize time used to turn unscructured data to useful data for analyis
+
+# The difference between data mining and data scraping? Explain with an example each.
+
+data mining involves discovering patterns and knowledge within large datasets, analyse the data to find hidden relationships, trends, and insights then using machine learning algorithms to analyze customer data and predict future buying behavior.
+
+
+
+Data Scraping involves Extracting specific information from websites through Automated collection of data from online sources, often structured into a usable format
+
+Example is the Books i scraped from the web with links below:
+
+[WebSrapping](https://github.com/JudahMwatee/Data-Analyst-Portfolio/blob/main/Web_Scraping_to_CSV.ipynb)
+[Scraped Books](https://github.com/JudahMwatee/Data-Analyst-Portfolio/blob/main/books.csv)
+
+
+
 
 
 
