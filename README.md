@@ -5,7 +5,7 @@
 
 BeautifulSoup is a Python parsing library that extracts data from HTML and XML files. It is easy to use and can navigate through HTML and XML documents. This tool extracts data from web pages such as images, texts, links, etc.
 
- [Beautiful Soup Example}(https://github.com/JudahMwatee/Data-Analyst-Portfolio/blob/main/Web_Scraping_to_CSV.ipynb)
+ [Beautiful Soup Example](https://github.com/JudahMwatee/Data-Analyst-Portfolio/blob/main/Web_Scraping_to_CSV.ipynb)
  [Resulting Excel Data](https://github.com/JudahMwatee/Data-Analyst-Portfolio/blob/main/books.csv)
 
 ## Scrapy
