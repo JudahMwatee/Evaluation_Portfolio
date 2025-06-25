@@ -108,6 +108,7 @@ Data Scraping involves Extracting specific information from websites through Aut
 Example is the Books i scraped from the web with links below:
 
 [WebSrapping](https://github.com/JudahMwatee/Data-Analyst-Portfolio/blob/main/Web_Scraping_to_CSV.ipynb)
+
 [Scraped Books](https://github.com/JudahMwatee/Data-Analyst-Portfolio/blob/main/books.csv)
 
 
