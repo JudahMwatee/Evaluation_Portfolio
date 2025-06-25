@@ -95,9 +95,13 @@ On Zoho CRM uses DataPrep software to minimize time used to turn unscructured da
 
 # The difference between data mining and data scraping? Explain with an example each.
 
-data mining involves discovering patterns and knowledge within large datasets, analyse the data to find hidden relationships, trends, and insights then using machine learning algorithms to analyze customer data and predict future buying behavior.
+data mining involves discovering patterns and knowledge within large datasets, analyse the data to find hidden relationships, trends, and insights then using machine learning algorithms to analyze customer data and predict future buying behavior. Below are links to an Example of the Data Mining Process, Code, DataSet and output links included.
 
+[Data Mining Code](https://github.com/JudahMwatee/Evaluation_Portfolio/blob/main/Data_Mining_Stock.ipynb)
 
+[Dataset Used](https://github.com/JudahMwatee/Evaluation_Portfolio/blob/main/Nvidia_stock_data.csv)
+
+[CSV_Output](https://github.com/JudahMwatee/Evaluation_Portfolio/blob/main/nvidia_stock_predictions.csv)
 
 Data Scraping involves Extracting specific information from websites through Automated collection of data from online sources, often structured into a usable format
 
