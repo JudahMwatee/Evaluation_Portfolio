@@ -75,6 +75,16 @@ Analysis: This shows which types of deals (small, medium, large) contribute the 
 Analysis: This metric indicates the volume of units sold per product line. Comparing this with Revenue by Product Line can reveal insights into pricing strategies and demand elasticity.
 
 
+# Data analytics pipeline
+
+To demostrate this i have include Link to the code, dataset and Visualization in PDF
+
+[Code](https://github.com/JudahMwatee/Evaluation_Portfolio/blob/main/Data_analytics_pipeline.ipynb)
+
+[Dataset](https://github.com/JudahMwatee/Evaluation_Portfolio/blob/main/2026%20QS%20World%20University%20Rankings.csv)
+
+[Visualization](https://github.com/JudahMwatee/Evaluation_Portfolio/blob/main/University%20Rankings.pdf)
+
 
 
 
