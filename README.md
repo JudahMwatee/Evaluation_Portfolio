@@ -27,8 +27,10 @@ Selenium focuses on browsers, which means it can be slower and requires a browse
 
 Below are links to the code, Data (CSV)  i used and graphs generated in pdf
 
-[Code}(https://github.com/JudahMwatee/Evaluation_Portfolio/blob/main/Sales_conversion_Dashboard.ipynb)
+[Code](https://github.com/JudahMwatee/Evaluation_Portfolio/blob/main/Sales_conversion_Dashboard.ipynb)
+
 [Sales Data](https://github.com/JudahMwatee/Evaluation_Portfolio/blob/main/sales_data_sample.csv)
+
 [Graphs](https://github.com/JudahMwatee/Evaluation_Portfolio/blob/main/Sales_Conversion_Graphs.pdf)
 
 The following is the analysis of each graph:
