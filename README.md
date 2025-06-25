@@ -23,6 +23,57 @@ Selenium focuses on browsers, which means it can be slower and requires a browse
 
 [Selenium Example](https://colab.research.google.com/drive/1Iy0otIS_lRX5dEYMvnKnFGMElzNM9H4D#scrollTo=ckvrV9F1ihtx)
 
+# Explain different metrics for a Sales conversion Dashboard
+
+Below are links to the code, Data (CSV)  i used and graphs generated in pdf
+
+[Code}(https://github.com/JudahMwatee/Evaluation_Portfolio/blob/main/Sales_conversion_Dashboard.ipynb)
+[Sales Data](https://github.com/JudahMwatee/Evaluation_Portfolio/blob/main/sales_data_sample.csv)
+[Graphs](https://github.com/JudahMwatee/Evaluation_Portfolio/blob/main/Sales_Conversion_Graphs.pdf)
+
+The following is the analysis of each graph:
+
+1. Total Revenue Over Time ---
+Analysis: This metric shows the overall trend of sales revenue. Peaks and troughs can indicate seasonality, promotional effectiveness, or external economic factors.
+
+
+2. Total Number of Orders Over Time ---
+Analysis: This metric tracks the volume of transactions. Comparing this with Total Revenue can indicate changes in average order value. A rise in orders with stagnant revenue might suggest lower-value transactions.
+
+
+3. Average Order Value (AOV) Over Time ---
+Analysis: AOV indicates the average amount spent per customer order. An increasing AOV suggests customers are buying more or higher-priced items per transaction, which is a good sign.
+
+
+4. Revenue by Product Line ---
+Analysis: This metric highlights which product lines are the most profitable. This information is crucial for inventory management, marketing efforts, and strategic planning.
+
+
+5. Number of Orders by Product Line ---
+Analysis: This shows the popularity of different product lines in terms of transaction volume. Comparing this with Revenue by Product Line helps identify product lines with high volume but low value, or vice versa.
+
+
+6. Revenue by Country ---
+Analysis: This metric identifies the strongest markets geographically. This information is valuable for targeted marketing campaigns and expansion strategies.
+
+
+7. Number of Orders by Country ---
+Analysis: Similar to Revenue by Country, this shows transaction volume by location. It helps to understand market penetration and customer engagement in different regions.
+
+
+8. Revenue by Customer (Top 10) ---
+Analysis: This metric identifies the most valuable customers. Understanding who these customers are and their buying patterns can inform loyalty programs and personalized marketing efforts.
+
+
+9. Sales Distribution by Deal Size ---
+Analysis: This shows which types of deals (small, medium, large) contribute the most to revenue. This can help in focusing sales strategies on the most profitable deal sizes.
+
+
+10. Quantity Ordered by Product Line ---
+Analysis: This metric indicates the volume of units sold per product line. Comparing this with Revenue by Product Line can reveal insights into pricing strategies and demand elasticity.
+
+
+
 
 
 
